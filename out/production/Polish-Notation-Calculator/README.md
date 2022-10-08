@@ -1,2 +1,0 @@
-# Polish Notation Calculator
- 
